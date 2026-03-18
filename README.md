@@ -12,6 +12,8 @@
  
 # TP1: opérateur de convolution
 
+Aller sur [NOM1-NOM2-NOM3_convolution.ipynb](./NOM1-NOM2-NOM3_convolution.ipynb) puis télécharger le fichier.
+
 # TP2: classifier une image
 
 
