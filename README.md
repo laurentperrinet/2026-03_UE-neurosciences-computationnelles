@@ -15,7 +15,7 @@
 # TP2: classifier une image
 
 
-# La pause publicitaire
+# La pause culture générale
 
 * un article à lire sur temps & cerveau: https://laurentperrinet.github.io/publication/perrinet-19-temps/
 
