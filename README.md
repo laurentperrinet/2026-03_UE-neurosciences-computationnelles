@@ -16,6 +16,7 @@ Aller sur [NOM1-NOM2-NOM3_convolution.ipynb](./NOM1-NOM2-NOM3_convolution.ipynb)
 
 # TP2: classifier une image
 
+Aller sur [NOM1-NOM2-NOM3_Using-pyTorch-for-Classification.ipynb](./NOM1-NOM2-NOM3_Using-pyTorch-for-Classification.ipynb) puis télécharger le fichier.
 
 # La pause culture générale
 
@@ -45,7 +46,12 @@ Aller sur [NOM1-NOM2-NOM3_convolution.ipynb](./NOM1-NOM2-NOM3_convolution.ipynb)
 
 # TP1: Convolution Operator
 
+Follow [NOM1-NOM2-NOM3_convolution.ipynb](./NOM1-NOM2-NOM3_convolution.ipynb) and download the file.
+
+
 # TP2: Classifying an Image
+
+Follow [NOM1-NOM2-NOM3_Using-pyTorch-for-Classification.ipynb](./NOM1-NOM2-NOM3_Using-pyTorch-for-Classification.ipynb) and download the file.
 
 ---
 
