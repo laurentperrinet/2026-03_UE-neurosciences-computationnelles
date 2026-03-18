@@ -1,4 +1,4 @@
-# 2026-03_UE-neurosciences-computationnelles, matériel pour le cours de modélisation
+# 2026-03_UE-neurosciences-computationnelles, matériel pour le cours de modélisation :fr: (:uk: below)
 
 * Où: Marseille (France)
 
@@ -25,3 +25,34 @@
 
 * [Modelling spiking neural networks using Brian, Nest and pyNN](https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization/) - ([slides](https://laurentperrinet.github.io/2019-01-14_LACONEU/))
 
+-------
+
+# 2026-03_UE-Computational Neuroscience, Course Material for Modeling :uk:
+
+* Where: Marseille (France)
+
+* What: Master in Neurosciences and Cognitive Sciences
+
+* Objective of this work: Run Python code to better understand the convolution operator and its use in deep learning.
+
+* Format: Students work individually, in pairs, or in groups of three to submit a notebook completed based on the provided template. Follow the `TODO` tags in the notebook to guide your writing. Comments should be in French (or English if necessary) in the notebook (remember to save your changes) and send it by email to [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr) once your work is complete (preferably before April XX).
+
+* Required tools: [Jupyter](https://jupyter.org/), with [numpy](https://numpy.org/) and [matplotlib](https://matplotlib.org/). These are standard tools that are easily installable on any platform. If you encounter any issues, please email me.
+
+---
+
+# TP1: Convolution Operator
+
+# TP2: Classifying an Image
+
+---
+
+# General Culture Break
+
+* An article to read on time & brain: [https://laurentperrinet.github.io/publication/perrinet-19-temps/](https://laurentperrinet.github.io/publication/perrinet-19-temps/)
+
+* Article on visual perception: [https://laurentperrinet.github.io/post/2019-06-06-theconversation/](https://laurentperrinet.github.io/post/2019-06-06-theconversation/)
+
+* Article on eyes in different species: [https://laurentperrinet.github.io/post/2019-06-06-theconversation/](https://laurentperrinet.github.io/post/2019-06-06-theconversation/)
+
+* [Modelling spiking neural networks using Brian, Nest and pyNN](https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization/) - ([slides](https://laurentperrinet.github.io/2019-01-14_LACONEU/))
