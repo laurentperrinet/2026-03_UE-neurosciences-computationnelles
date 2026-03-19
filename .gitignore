@@ -208,3 +208,4 @@ __marimo__/
 images/stl10_binary.tar.gz
 /images/stl10_binary
 /images/MNIST
+mnist_cnn.pt
